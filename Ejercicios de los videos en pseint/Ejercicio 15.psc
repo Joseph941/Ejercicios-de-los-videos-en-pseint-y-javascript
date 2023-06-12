@@ -1,4 +1,4 @@
-// Realizar un algoritmo en el cual tendremos 3 cuestionarios, esto realizara una operacion de cada cuestionario, será, tiempoA <- cantidadA multiplicado por 5, en el B multiplicado por 8, y en el C multiplicado por 6, y al final escribir cuantas horas y minutos se tardará.
+// Realizar un algoritmo en el cual tendremos 3 cuestionarios, esto realizara una operacion de cada cuestionario, serÃ¡, tiempoA <- cantidadA multiplicado por 5, en el B multiplicado por 8, y en el C multiplicado por 6, y al final escribir cuantas horas y minutos se tardarÃ¡.
 // Variables: TiempoA, TiempoB, TiempoC, CantidadA, CantidadB, CantidadC, Tiempo_Total, horas, minutos
 //Salida: x
 
@@ -16,8 +16,8 @@ Funcion expresion()
 	leer cantidadC;
 	
 	tiempoA <- cantidadA * 5;
-	tiempoA <- cantidadA * 8;
-	tiempoA <- cantidadA * 6;
+	tiempob <- cantidadA * 8;
+	tiempoc <- cantidadA * 6;
 	
 	tiempo_total <- tiempoA + tiempoB + tiempoC;
 	horas <- tiempo_total/60; 
