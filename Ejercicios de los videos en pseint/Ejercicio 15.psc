@@ -16,8 +16,8 @@ Funcion expresion()
 	leer cantidadC;
 	
 	tiempoA <- cantidadA * 5;
-	tiempob <- cantidadA * 8;
-	tiempoc <- cantidadA * 6;
+	tiempob <- cantidadb * 8;
+	tiempoc <- cantidadc * 6;
 	
 	tiempo_total <- tiempoA + tiempoB + tiempoC;
 	horas <- tiempo_total/60; 
